@@ -12,6 +12,8 @@ For more details on my professional experience check out https://www.linkedin.co
   
     * Short explanation
     
+    * Applications
+    
     * Example
    
   
