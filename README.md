@@ -20,7 +20,7 @@ For more details on my professional experience check out https://www.linkedin.co
     
       * **Applications**: Analyze the marketing effectiveness, pricing and promotions on sales of a product, assess risk in financial services or insurance domain, project the sale of a product according to the price, trend lines, etc..
     
-      * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): In this project, I will evaluate the performance of a model that has been trained and tested on data collected from homes in the suburbs of Boston, Massachusetts. The purpose of this model is to make predictions about the value of a home.The data set for this project came from the UCI Machine Learning Repository. Boston housing data was collected in 1978 and each of the 506 entries represents aggregate data on 14 characteristics for homes in various suburbs in Boston, Massachusetts.
+      * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): A machine learning model to predict the value of a particular home in the Boston real estate market.
       
    * **Unsupervised**
      * **Objectives**
