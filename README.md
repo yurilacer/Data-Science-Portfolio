@@ -9,3 +9,5 @@ For more details on my professional experience check out https://www.linkedin.co
 * Machine Learning
 
   * Linear Regression
+  
+   * Short explanation
