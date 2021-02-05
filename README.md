@@ -10,7 +10,7 @@ For more details on my professional experience check out https://www.linkedin.co
 
   * **Linear Regression**
   
-    * Short explanation
+    * Short explanation: Linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent   variables)
     
     * Applications
     
