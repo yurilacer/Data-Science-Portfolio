@@ -11,6 +11,8 @@ For more details on my professional experience check out https://www.linkedin.co
   * **Linear Regression**
   
     * Short explanation
+    
+    * Example
    
   
    
