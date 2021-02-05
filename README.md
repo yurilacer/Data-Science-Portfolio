@@ -6,7 +6,7 @@ For more details on my professional experience check out https://www.linkedin.co
 
 # Contents
 
-* **Machine Learning**
+* **## Machine Learning**
 
   * **Supervised**
     * **Objectives**
