@@ -12,7 +12,7 @@ For more details on my professional experience check out https://www.linkedin.co
   
     * **Short explanation**: Linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent   variables)
     
-    * **Applications**: Analisar a eficácia do marketing, preços e promoções nas vendas de um produto, avaliar o risco em serviços financeiros ou no domínio segurador, projetar a venda de um produto de acordo com o preço, linhas de tendência, etc.
+    * **Applications**: Analyze the marketing effectiveness, pricing and promotions on sales of a product, assess risk in financial services or insurance domain, project the sale of a product according to the price, trend lines, etc..
     
     * **Example**
    
