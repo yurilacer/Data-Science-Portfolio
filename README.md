@@ -21,6 +21,12 @@ For more details on my professional experience check out https://www.linkedin.co
       * **Applications**: Analyze the marketing effectiveness, pricing and promotions on sales of a product, assess risk in financial services or insurance domain, project the sale of a product according to the price, trend lines, etc..
     
       * **Example**
+      
+   * **Unsupervised**
+     * **Objectives**
+       * There is no answer variable. Explanatory variables only.
+       * Objectives are more diverse: to find concepts that are more find explanatory variables that behave in a similar way, etc.
+       
    
   
    
