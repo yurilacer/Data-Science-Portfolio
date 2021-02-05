@@ -9,6 +9,10 @@ For more details on my professional experience check out https://www.linkedin.co
 * **Machine Learning**
 
   * **Supervised**
+    * **Objectives**
+      * Predict the behavior of the phenomenon in new cases (test data).
+      * Study the relationship between explanatory variables and the answer.
+      * Check the quality of predictions.
 
     * **Linear Regression**
   
