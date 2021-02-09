@@ -28,7 +28,7 @@ For more details on my professional experience check out https://www.linkedin.co
     
       * **Applications**: Fraud detection ,Email spam or ham, Sentiment Analysis, Image segmentation, recognition and classification, Object detection, Handwriting recognition, Disease (diabetes, cancer etc.) prediction
     
-      * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks. This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression.
+      * **Example**: [Heart Disease Prediction](https://pages.github.com/): World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks. This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression.
 
       
    * **Unsupervised**
