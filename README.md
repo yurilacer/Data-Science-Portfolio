@@ -21,6 +21,15 @@ For more details on my professional experience check out https://www.linkedin.co
       * **Applications**: Analyze the marketing effectiveness, pricing and promotions on sales of a product, assess risk in financial services or insurance domain, project the sale of a product according to the price, trend lines, etc..
     
       * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): A machine learning model to predict the value of a particular home in the Boston real estate market.
+
+    * **Logistic Regression**
+  
+      * **Short explanation**: Logistic Regression is a mathematical model used in statistics to estimate (guess) the probability of an event occurring using some previous data. Logistic Regression works with binary data, where either the event happens (1) or the event does not happen (0).
+    
+      * **Applications**: Fraud detection ,Email spam or ham, Sentiment Analysis, Image segmentation, recognition and classification, Object detection, Handwriting recognition, Disease (diabetes, cancer etc.) prediction
+    
+      * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks. This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression.
+
       
    * **Unsupervised**
      * **Objectives**
