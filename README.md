@@ -4,15 +4,13 @@ Repository containing portfolio of data science projects. Presented in the form 
 
 For more details on my professional experience check out https://www.linkedin.com/in/yurilacerdamba/
 
-# Contents
+# Machine Learning
 
-* **Machine Learning**
-
-  * **Supervised**
-    * **Objectives**
-      * Predict the behavior of the phenomenon in new cases (test data).
-      * Study the relationship between explanatory variables and the answer.
-      * Check the quality of predictions.
+* **Supervised**
+  * **Objectives**
+    * Predict the behavior of the phenomenon in new cases (test data).
+    * Study the relationship between explanatory variables and the answer.
+    * Check the quality of predictions.
 
     * **Linear Regression**
   
@@ -31,10 +29,10 @@ For more details on my professional experience check out https://www.linkedin.co
       * **Example**: [Heart Disease Prediction](https://pages.github.com/): World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks. This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression.
 
       
-   * **Unsupervised**
-     * **Objectives**
-       * There is no answer variable. Explanatory variables only.
-       * Objectives are more diverse: to find concepts that are more find explanatory variables that behave in a similar way, etc.
+* **Unsupervised**
+ * **Objectives**
+   * There is no answer variable. Explanatory variables only.
+   * Objectives are more diverse: to find concepts that are more find explanatory variables that behave in a similar way, etc.
        
      * **K-means Cluster**
   
