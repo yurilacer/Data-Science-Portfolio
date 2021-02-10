@@ -36,6 +36,13 @@ For more details on my professional experience check out https://www.linkedin.co
        * There is no answer variable. Explanatory variables only.
        * Objectives are more diverse: to find concepts that are more find explanatory variables that behave in a similar way, etc.
        
+     * **K-means Cluster**
+  
+       * **Short explanation**: Process of division of the dataset into groups in which the members in the same group possess similarities in features. 
+    
+       * **Applications**: Document classification, delivery store optimization, identifying crime localities, customer segmentation, fantasy league stat analysis, insurance fraud detection, rideshare data analysis, cyber-profiling criminals, call record detail analysis, automatic clustering of it alerts
+    
+       * **Example**: 
    
   
    
