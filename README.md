@@ -42,5 +42,10 @@ For more details on my professional experience check out https://www.linkedin.co
     
      * **Example**: 
    
+   * **Time Series**
   
-   
+     * **Short explanation**: Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
+    
+     * **Applications**: Changes in stock prices on the Stock Exchange, Size of the population of a city, state or country, Quarterly sales of a store, Electricity consumption, Passenger demand of an airline throughout the year.
+    
+     * **Example**: [Time Series Forecasting](https://pages.github.com/): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
