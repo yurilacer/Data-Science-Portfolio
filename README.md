@@ -48,4 +48,4 @@ For more details on my professional experience check out https://www.linkedin.co
     
      * **Applications**: Changes in stock prices on the Stock Exchange, Size of the population of a city, state or country, Quarterly sales of a store, Electricity consumption, Passenger demand of an airline throughout the year.
     
-     * **Example**: [Time Series Forecasting](https://pages.github.com/): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
+     * **Example**: [Time Series Forecasting](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Time%20Series%20Forecasting.ipynb): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
