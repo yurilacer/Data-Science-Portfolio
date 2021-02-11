@@ -30,7 +30,7 @@ For more details on my professional experience check out https://www.linkedin.co
 
       
 * **UNSUPERVISED**
- * **Objectives**
+  * **Objectives**
     * There is no answer variable. Explanatory variables only.
     * Objectives are more diverse: to find concepts that are more find explanatory variables that behave in a similar way, etc.
        
