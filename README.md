@@ -18,7 +18,7 @@ For more details on my professional experience check out https://www.linkedin.co
   
     * **Applications**: Analyze the marketing effectiveness, pricing and promotions on sales of a product, assess risk in financial services or insurance domain, project the sale of a product according to the price, trend lines, etc..
     
-    * **Example**: [Predicting Boston Housing Prices](https://pages.github.com/): A machine learning model to predict the value of a particular home in the Boston real estate market.
+    * **Example**: [Predicting Boston Housing Prices](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Boston%20Housing%20Prices.ipynb): A machine learning model to predict the value of a particular home in the Boston real estate market.
 
   * **LOGISTIC REGRESSION**
   
