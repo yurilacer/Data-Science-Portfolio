@@ -34,7 +34,7 @@ For more details on my professional experience check out https://www.linkedin.co
     
     * **Applications**: Assessing prospective growth opportunities, Using demographic data to find prospective clients, Business Management, Customer Relationship Management, Fraudulent Statement Detection, Energy Consumption, Fault Diagnosis, Healthcare Management, Face Recognition, Medical Image Classification.
     
-    * **Example**: [Heart Disease Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Heart%20Disease%20Prediction.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.
+    * **Example**: [Drugs Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Drugs%20Prediction.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.
 
       
 * **UNSUPERVISED**
