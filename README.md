@@ -28,6 +28,14 @@ For more details on my professional experience check out https://www.linkedin.co
     
     * **Example**: [Heart Disease Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Heart%20Disease%20Prediction.ipynb): World Health Organization has estimated that four out of five cardiovascular diseases(CVD) deaths are due to heart attacks. This whole research intends to pinpoint the ratio of patients who possess a good chance of being affected by CVD and also to predict the overall risk using Logistic Regression.
 
+  * **DECISION TREE**
+  
+    * **Short explanation**: A decision tree is basically a binary tree flowchart where each node splits a group of observations according to some feature variable. The goal of a decision tree is to split your data into groups such that every element in one group belongs to the same category.
+    
+    * **Applications**: Assessing prospective growth opportunities, Using demographic data to find prospective clients, Business Management, Customer Relationship Management, Fraudulent Statement Detection, Energy Consumption, Fault Diagnosis, Healthcare Management, Face Recognition, Medical Image Classification.
+    
+    * **Example**: [Heart Disease Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Heart%20Disease%20Prediction.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.
+
       
 * **UNSUPERVISED**
   * **Objectives**
