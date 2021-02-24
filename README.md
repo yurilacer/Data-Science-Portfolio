@@ -62,4 +62,11 @@ The model used in this project was linear regression.
     
      * **Example**: [Time Series Forecasting](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Time%20Series%20Forecasting.ipynb): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
 
+   * **MARKET BASKET**
+  
+     * **Short explanation**: Market Basket Analysis is a analysis technique which identifies the strength of association between pairs of products purchased together and identify patterns of co-occurrence.
+    
+     * **Applications**: Cross Selling, Product Placement, Affinity Promotion, Fraud Detection, Customer Behavior
+    
+     * **Example**: [Market Basket](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Market%20Basket.ipynb): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
 
