@@ -68,5 +68,5 @@ The model used in this project was linear regression.
     
      * **Applications**: Cross Selling, Product Placement, Affinity Promotion, Fraud Detection, Customer Behavior
     
-     * **Example**: [Market Basket](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Market%20Basket.ipynb): Predict CO2 based on data called "atmospheric CO2 from continuous air samples at the Mauna Loa Observatory, Hawaii, USA", which collected CO2 samples from March 1958 to December 2001.    
+     * **Example**: [Market Basket](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Market%20Basket.ipynb): The aim of the project is to make an analysis of the purchase data from Germany and France from the data set from the UCI Machine Learning Repository that represents transactional data from a UK retailer from 2010-2011.
 
