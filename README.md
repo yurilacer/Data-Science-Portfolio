@@ -41,8 +41,8 @@ The model used in this project was linear regression.
 
 
   * **SUPPORT VECTOR MACHINE**
-  
-    * **Short explanation: Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification and regression problems. SVM performs very well with even a limited amount of data.
+    
+    * **Short explanation**: Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification and regression problems. SVM performs very well with even a limited amount of data.
     
     * **Applications**: Image Recognition, Text Category Assignment, Spam Detection, Sentiment Analysis, Gene Expression Classification, Regression, Outlier Detection, Clustering
     	  
