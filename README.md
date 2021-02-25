@@ -39,7 +39,8 @@ The model used in this project was linear regression.
     
     * **Example**: [Drugs Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Drugs%20Prediction.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.
 
-   * **SUPPORT VECTOR MACHINE**
+
+  * **SUPPORT VECTOR MACHINE**
   
     * **Short explanation: Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification and regression problems. SVM performs very well with even a limited amount of data.
     
