@@ -47,6 +47,7 @@ The model used in this project was linear regression.
     * **Applications**: Image Recognition, Text Category Assignment, Spam Detection, Sentiment Analysis, Gene Expression Classification, Regression, Outlier Detection, Clustering
     	  
 	  
+	  
 * **UNSUPERVISED**
   * **Objectives**
     * There is no answer variable. Explanatory variables only.
