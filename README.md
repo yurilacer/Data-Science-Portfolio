@@ -46,8 +46,7 @@ The model used in this project was linear regression.
     
     * **Applications**: Image Recognition, Text Category Assignment, Spam Detection, Sentiment Analysis, Gene Expression Classification, Regression, Outlier Detection, Clustering
     	  
-    * **Example**: [Cnacer Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/SVM%20Cancer.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.		  
-	  
+    * **Example**: [Cancer Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/SVM%20Cancer.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.		  	  
 	  
 * **UNSUPERVISED**
   * **Objectives**
