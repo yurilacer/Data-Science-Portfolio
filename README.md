@@ -52,7 +52,7 @@ The model used in this project was linear regression.
     
     * **Short explanation**: Naive Bayes is among one of the simplest, but most powerful algorithms for classification based on Bayes Theorem with an assumption of independence among predictors.
     
-    * **Applications**: Spam 􀁷ltering, Text classi􀁷cation, Sentiment analysis, Recommender system
+    * **Applications**: Spam filtering, Text classification, Sentiment analysis, Recommender system
     	  
     * **Example**: [Wine Classifier](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Naive%20Bayes%20Classifier.ipynb): The idea of this project is to create a classifier for wines, using as a database the information chemical analysis of wines grown in the same region in Italy.
 
