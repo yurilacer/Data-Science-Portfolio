@@ -48,6 +48,15 @@ The model used in this project was linear regression.
     	  
     * **Example**: [Cancer Prediction](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/SVM%20Cancer.ipynb): The idea of this project is to build a model to discover an ideal drug for a new patient, based on a data set with information from patients with the same disease, in which each patient responded to one of the five drugs.		  	  
 	  
+  * **NAIVE BAYES**
+    
+    * **Short explanation**: Naive Bayes is among one of the simplest, but most powerful algorithms for classification based on Bayes Theorem with an assumption of independence among predictors.
+    
+    * **Applications**: Spam 􀁷ltering, Text classi􀁷cation, Sentiment analysis, Recommender system
+    	  
+    * **Example**: [Wine Classifier](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Naive%20Bayes%20Classifier.ipynb): The idea of this project is to create a classifier for wines, using as a database the information chemical analysis of wines grown in the same region in Italy.
+
+	  
 * **UNSUPERVISED**
   * **Objectives**
     * There is no answer variable. Explanatory variables only.
