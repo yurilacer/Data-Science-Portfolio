@@ -87,3 +87,11 @@ The model used in this project was linear regression.
     
      * **Example**: [Market Basket](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/Market%20Basket.ipynb): The aim of the project is to make an analysis of the purchase data from Germany and France from the data set from the UCI Machine Learning Repository that represents transactional data from a UK retailer from 2010-2011.
 
+   * **PCA**
+  
+     * **Short explanation**: Principal component analysis, or PCA, is a statistical technique to convert high dimensional data to low dimensional data by selecting the most important features that capture maximum information about the dataset
+    
+     * **Applications**: Image compression, Customer profiling, Quantitative Finance, Facial Recognition, Other applications like Medical Data correlation, Neuroscience
+    
+     * **Example**: 
+
