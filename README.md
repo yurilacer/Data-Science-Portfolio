@@ -93,5 +93,5 @@ The model used in this project was linear regression.
     
      * **Applications**: Image compression, Customer profiling, Quantitative Finance, Facial Recognition, Other applications like Medical Data correlation, Neuroscience
     
-     * **Example**: [PCA] (https://github.com/yurilacer/Data-Science-Portfolio/blob/main/PCA.ipynb) : The idea of this project is to apply the dimensionality reduction technique - PCA and train a model using the reduced set of main components.
+     * **Example**: [PCA](https://github.com/yurilacer/Data-Science-Portfolio/blob/main/PCA.ipynb) : The idea of this project is to apply the dimensionality reduction technique - PCA and train a model using the reduced set of main components.
 
